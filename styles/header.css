@@ -28,7 +28,7 @@
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
-.lista-menu__titulo{
+.lista-menu_titulo{
     color: var(--laranja);
 }
 .lista-menu__item {
