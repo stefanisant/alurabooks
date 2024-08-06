@@ -28,3 +28,10 @@
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
+.lista-menu__titulo{
+    color: var(--laranja);
+}
+.lista-menu__item {
+    padding: lem;
+    background-color: var(--branco);
+}
