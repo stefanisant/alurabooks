@@ -1,6 +1,0 @@
-@import url("styles/banner.css");
-
-.banner {
-    background: var(--azul-degrade);
-    color: var(--branco);
-}
